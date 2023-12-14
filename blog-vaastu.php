@@ -10,7 +10,7 @@
 		margin-top: 0px;
 	}
 	.contact-form-box{
-		overflow-x: hidden !important;
+		overflow-x:
 	}
 	.carrer-img{
 		width: 100% !important;
