@@ -119,7 +119,7 @@
 
                 <figure class="effect-milo">
 
-                    <img src="images/Rising-Courtyard-New-Banner.jpg" alt=""/>
+                    <img src="images/Rising-Courtyard-New-Banner.jpg" alt="rising-court-yard"/>
 
                     <figcaption>
 
