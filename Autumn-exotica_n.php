@@ -139,7 +139,7 @@ if (!empty($_POST)) {
 								</span>
 								<span class="data-text">
 									<a href="assets/Layout/Autumn-Exotica-Layout_compressed.pdf"
-										target="_blank">Download</a>
+										target="_blank">download</a>
 								</span>
 							</li>
 						</ul>
